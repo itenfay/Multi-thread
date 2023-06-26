@@ -7,7 +7,7 @@
 - 欢迎加入技术交流群，一起探讨技术问题。
 
 <div align=left>
-&emsp; <img src="https://github.com/chenxing640/Multi-thread/raw/master/images/qq155353383.jpg" width="20%" />
+&emsp; <img src="https://github.com/chenxing640/Multi-thread/tree/master/images/qq155353383.jpg" width="20%" />
 </div>
 
 ## Multi-thread
